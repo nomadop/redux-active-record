@@ -1,0 +1,4 @@
+.DS_Store
+coverage
+jest.config.json
+node_modules
